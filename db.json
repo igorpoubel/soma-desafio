@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vestido Longo Estampado Borboleta Em Flor",
+      "price": 448.5,
+      "available": true,
+      "images": [
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3385444-472-708/332975_48308_1-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638544137785430000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3385449-708-1062/332975_48308_2-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638544137859300000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3385459-1350-2025/332975_48308_3-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638544137967600000"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vestido Cropped Estampado Orquídea",
+      "price": 411.75,
+      "available": true,
+      "images": [
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3393955-708-1062/327270_48309_1-VESTIDO-CROPPED-ESTAMPADO-ORQUIDEA.jpg?v=638561295341430000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3393965-708-1062/327270_48309_2-VESTIDO-CROPPED-ESTAMPADO-ORQUIDEA.jpg?v=638561295426700000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3395237-1350-2025/327270_48309_5-VESTIDO-CROPPED-ESTAMPADO-ORQUIDEA.jpg?v=638562258418200000"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vestido Longo Estampado Borboleta Em Flor",
+      "price": 373.5,
+      "available": true,
+      "images": [
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3389658-708-1062/331896_48308_1-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638554568249700000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3389667-708-1062/331896_48308_2-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638554568309530000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3389677-1350-2025/331896_48308_3-VESTIDO-LONGO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638554568365670000"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Vestido Curto Estampado Orquídea",
+      "price": 261.75,
+      "available": true,
+      "images": [
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3364966-708-1062/327269_48309_1-VESTIDO-CURTO-ESTAMPADO-ORQUIDEA.jpg?v=638520949251570000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3364976-708-1062/327269_48309_2-VESTIDO-CURTO-ESTAMPADO-ORQUIDEA.jpg?v=638520949336200000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3364990-1350-2025/327269_48309_3-VESTIDO-CURTO-ESTAMPADO-ORQUIDEA.jpg?v=638520949454200000"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vestido Curto Estampado Borboleta Em Flor",
+      "price": 351.75,
+      "available": true,
+      "images": [
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3377625-708-1062/331894_48308_1-VESTIDO-CURTO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638524988981270000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3377635-708-1062/331894_48308_2-VESTIDO-CURTO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638524989062870000",
+        "https://lojafarm.vteximg.com.br/arquivos/ids/3399966-1350-2025/331894_48308_5-VESTIDO-CURTO-ESTAMPADO-BORBOLETA-EM-FLOR.jpg?v=638569098543570000"
+      ]
+    }
+  ]
+}

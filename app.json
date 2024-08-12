@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "SomaApp",
+    "slug": "SomaApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/presentation/assets/images/somalogo.png",
+    "scheme": "somaapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/presentation/assets/images/somalogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/presentation/assets/images/somalogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./src/presentation/assets/images/somalogo.png"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
